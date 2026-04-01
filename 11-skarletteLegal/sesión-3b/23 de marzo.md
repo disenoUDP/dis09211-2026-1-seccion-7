@@ -1,12 +1,11 @@
 # Tarea 1
-** Leer capitulo 1: la psicología de los objetos cotidianos(pag 15-51) ** 
+
+*Leer capitulo 1: la psicología de los objetos cotidianos(pag 15-51)*
 * 1 Concepto de interés
 * Texto de 400 páginas
 * 1 dibujo con las ideas
 
-Tarea:
-
-
+Tarea: 
 ## Diseño Especulativo
 llegar con los materiales y muñeca lista, no tengo mucha información de este día, ya que fui a buscar la muleca donde mi compañera de grupo y fui a comprar los materiales y al
 volver de la clase dieron descanso y la terminaron para que los demas grupos fueran a comprar los materiales, pero como yo ya los habia compartido con mi otra compañera nos quedamos para entender el prcedimiento
