@@ -1,5 +1,5 @@
 # 23/03/26  Costruir Drawdio en Protoboard  
-Nos mostraron el Ic 555:  
+Nos mostrarón el Ic 555:  
 <img width="606" height="607" alt="image" src="https://github.com/user-attachments/assets/cea33b79-e0fc-4edc-b10c-fa48df7c8c1d" />  
   
 El circuito en el protoboard para la creación del drawdio:  
