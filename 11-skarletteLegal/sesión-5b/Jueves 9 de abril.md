@@ -51,7 +51,7 @@ Respecto al ambiente es un ambiente muy tranquilo es poco transcurrido y existen
 ## Interacciones
 
 Las interacciones que nos encontramos durante el camino. Entre ellas, podemos encontrar:
-- la subida a los trenes que son de 4
+- la subida a los trenes que son 4 trenes
 - en algunos de ellos podías tocar algunas funciones que tenían dentro, pero estas eran incomprendidas al ser usada por nosotras,debíamos encontrarlas
 - un tren tenía una campana que podías hacer sonar
 - la de subirse a un tren utilizado para transporte de personas, con libertad de sentarte y sentir la experiencia de cómo era viajar en tren hace 100 años
