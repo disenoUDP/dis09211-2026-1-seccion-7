@@ -105,4 +105,7 @@ Y los actores, que están involucrados son:
 - nos encontramos con 2 parejas y 2 familias durante nuestro recorrido
 - y entre medio 2 personas que iban solas a este museo
 
-Todas estas personas hacían registro fotográfico y algunas se detenían a las lecturas de información.
+Todas estas personas hacían registro fotográfico y algunas se detenían a las lecturas de información.  
+
+<img width="1280" height="1193" alt="image" src="https://github.com/user-attachments/assets/761fbaaa-6d52-4e99-8dbf-dcda18e60627" />
+
