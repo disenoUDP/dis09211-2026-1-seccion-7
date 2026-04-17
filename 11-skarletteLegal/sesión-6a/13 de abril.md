@@ -1,0 +1,20 @@
+# Tarea 4 - El código de la discordia
+
+
+El concepto que elegí de la serie es la **interdisciplinaridad**, ya que es lo más importante en la creación de un objeto **nuevo y revolucionario**, como lo fue *Terravision* y la empresa que formaron los dos protagonistas, *Art+Com*. La interdisciplinaridad es una solución muy buena para los problemas que existen actualmente, ya que son muchos y para abordarlos en profundidad, con soluciones pertinentes, se deben juntar más disciplinas que busquen soluciones para el mundo entero. En un contexto actual donde los desafíos son cada vez más complicados, como los avances tecnológicos o los problemas sociales y ambientales, este enfoque se vuelve aún más necesario.
+
+La interdisciplinaridad es el concepto de unir dos áreas o más áreas de determinado conocimiento; puede ser *ciencias, matemáticas, física, química, artes, diseño, arquitectura*, un montón de áreas que tienen su propio conocimiento determinado para llevar a cabo un conjunto de ideas que se unen para crear cosas nuevas. Lo más importante de la interdisciplinaridad es que deben hablar entre sí. Las disciplinas deben hablar entre sí, se combinan y crean algo, ya sea a través de su concepto o uso; es la unión de **investigación, de profundización de conocimiento y de soluciones entre cada área que está presente**. Deben dialogar entre sí. Además, este diálogo no siempre es fácil, ya que cada disciplina tiene su propio lenguaje y forma de pensar, pero justamente en esa diferencia está el valor, porque permite ampliar la forma de ver un problema.
+
+En la serie vemos muy marcado este concepto, ya que un **artista se junta con un programador para la creación de Terravision**. El concepto y la idea que tuvo el artista sentó las bases para ver el mundo desde otra perspectiva, y el programador fue el encargado de llevarlo a cabo. Se creó un equipo de personas entre programadores y artistas que llevan a cabo la creación de Terravision. Sin embargo, solo artistas no podrían haberlo hecho sin la ayuda de los programadores, y la parte visual y reflexiva se llevó a cabo en base a las ideas de los artistas que buscan otra forma de ver el mundo y su historia, una nueva visión, una visión más sorprendente que conecta identidades, historias y personas. Esto demuestra que ***la interdisciplinaridad no es solo colaboración**, sino también una construcción conjunta donde cada área aporta algo esencial.*
+
+Aunque este concepto es increíble y se lleva a cabo con distintas disciplinas, mucha gente sigue teniendo dudas sobre la interdisciplinaridad, ya que se preguntan qué va a estar haciendo un científico con un artista, pero se debe pensar en cómo se llevan a cabo las cosas. Se debería pensar que al unir disciplinas de distintas áreas se crean cosas inigualables, ya que la forma en la que se *proponen materiales, soluciones, ideas, conflictos, argumentos e investigaciones* es distinta en todas las áreas, y al unir cada *“personalidad”* de un área hace que se construya una visión distinta para llevar a cabo proyectos nuevos, ya sea en soluciones o productos. Además, este tipo de trabajo **fomenta la creatividad, la innovación y la capacidad de adaptarse a distintos contextos.**
+
+Finalmente, la interdisciplinariedad no solo permite crear proyectos innovadores, sino que también **cambia la manera en que entendemos el conocimiento,** ya que deja de ser algo separado y pasa a ser algo conectado. Gracias a esto, se pueden generar soluciones más completas y con mayor impacto en la sociedad. Por lo tanto, es un concepto clave tanto en la serie como en la vida real, porque demuestra que trabajar en conjunto desde distintas miradas es fundamental para **avanzar y crear nuevas formas de entender el mundo** como lo fue Terravision.
+
+Esquema/Dibujo
+ ![dccdbcf0-8056-4c8a-ba13-04836064ace9](https://github.com/user-attachments/assets/3c9b310d-2723-464d-b752-8ea664102ff8)
+![92d3dd26-9e2c-470a-ae3f-e64793777e41](https://github.com/user-attachments/assets/3a7792a3-6638-464d-942a-e80d7235361c)
+![c2078e54-a171-4eb7-a746-c33d3ea53713](https://github.com/user-attachments/assets/93d0072c-258f-4483-97b4-0426dec92753)
+
+
+---
