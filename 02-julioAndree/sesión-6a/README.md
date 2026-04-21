@@ -1,7 +1,7 @@
 # 13/04/26  
 ## Diseñar para personas    
 ### Observacion de usuario:  
-* Planificar(Guía general para técnicas)
+* Planificar (Guía general para técnicas)  
    * Pauta de preparación
    * Registro
    * Instrumentos
