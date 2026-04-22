@@ -98,6 +98,8 @@ Especificos;
   * Tuvo una muñeca que perdio en un parque, se la regalaron cuando era un bebe y era de trapo, tenia un vestido rayado rojo, con el pelo de lana, y sus zapatos se podian abrochar. Segun recuerda se la regalo su hermana mayor, la tuvo hasta los 7 años.
  
   * * Los juguetes fueron presentandos durante la clase.
+    
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d2078df3-28d1-46d0-8c24-5be40582bfc4" />
+<img width="1280" height="729" alt="image" src="https://github.com/user-attachments/assets/007cac66-49df-43e6-b29b-cdcda6ccc242" />
 
